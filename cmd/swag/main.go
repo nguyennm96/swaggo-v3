@@ -10,6 +10,7 @@ import (
 	"github.com/nguyennm96/swaggo-v3"
 	"github.com/nguyennm96/swaggo-v3/format"
 	"github.com/nguyennm96/swaggo-v3/gen"
+	"github.com/urfave/cli/v2"
 )
 
 const (
